@@ -121,3 +121,14 @@ My goal is to keep building practical IT support skills through hands-on practic
 ## Safety Note
 
 I avoid uploading private information such as passwords, public IP addresses, personal files, usernames, work information, or screenshots that contain sensitive details.
+## Docker Practice
+
+I am beginning Docker practice as part of my Linux home lab. My Docker notes include a learning plan and a beginner first-container lab.
+
+### Docker Learning Plan
+
+Documents planned Docker practice, including container basics, Docker images, Docker containers, common Docker commands, and future lab goals.
+
+### Docker First Container Lab
+
+Documents a beginner Docker lab covering Docker installation, running the `hello-world` test container, launching an Nginx web server container, port mapping, checking running containers, and stopping/removing containers.
