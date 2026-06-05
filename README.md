@@ -56,5 +56,3 @@ I use this lab to document issues, troubleshooting steps, and resolutions. Examp
 
 ## Current Goal
 My goal is to keep building practical IT support skills through hands-on practice and clear documentation.
-
-My goal is to keep building practical IT support skills through hands-on practice and clear documentation.
