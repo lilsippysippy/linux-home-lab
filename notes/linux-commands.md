@@ -94,5 +94,3 @@ Stops a process by process ID.
 
 ## Notes
 I am continuing to practice these commands to build confidence with Linux troubleshooting, system navigation, and command-line support.
-
-I am continuing to practice these commands to build confidence with Linux troubleshooting, system navigation, and command-line support.
