@@ -103,5 +103,3 @@ If a user cannot access a file, possible things to check include:
 
 ## Safety Note
 I should be careful when changing permissions, especially on system files. In a real environment, permission changes should be documented and approved when needed.
-
-I should be careful when changing permissions, especially on system files. In a real environment, permission changes should be documented and approved when needed.
