@@ -59,5 +59,3 @@ sudo apt upgrade
 
 ## Notes
 I am using this file to practice documenting issues clearly, similar to how I would document troubleshooting steps in a help desk or IT support ticket.
-
-I am using this file to practice documenting issues clearly, similar to how I would document troubleshooting steps in a help desk or IT support ticket.
