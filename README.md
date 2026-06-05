@@ -25,9 +25,7 @@ I use this lab to practice Linux basics, system troubleshooting, networking conc
 ## Tools and Systems
 
 * Linux Debian/Kali environment
-* Windows 10/11 support practice
-* Microsoft 365 concepts
-* Command-line tools
+* Linux terminal and command-line tools
 * Basic networking tools
 * Bash scripting
 * Python scripting
